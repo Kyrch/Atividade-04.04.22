@@ -6,6 +6,8 @@ int main() {
     int contEbu = 0;
     int contNorm = 0;
     float C, F, a, b;
+    a = 0;
+    b = 0;
     
     for (int i = 0; i < 5; i++) {
         printf("Digite a temperatura da água: ");
